@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Aymen Derbel 👋
+IT Student | Multimedia & Web Development
 
-<!--
-**aymen-derbel-dev/aymen-derbel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+- 🎓 IT student at ISET Sousse.
+- 💻 Interested in Full-Stack Development and AI.
+- 🚀 Building practical projects and exploring new technologies.
+Tech Stack
+React
+TypeScript
+JavaScript
+Python
+FastAPI
+PostgreSQL
+Supabase
+Unity
+C#
 
-Here are some ideas to get you started:
+Featured Projects
+- MerchandisingTeam – Field merchandising platform.
+- Log Analyzer – Intelligent network log analysis.
+Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏆 Unity Junior Programmer – Unity Technologies.
+
+Connect with me
+
+GitHub · LinkedIn · Email
