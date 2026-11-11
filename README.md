@@ -133,11 +133,13 @@
 <h3>Unity Junior Programmer</h3>
 
 <p align="left">
-  <a href="https://www.credly.com/badges/b94b9b25-563d-4ab1-be18-c817414dee42/public_url">
-    <img src="./assets/unity-junior-programmer.png"
-         width="145"
-         alt="Unity Junior Programmer Badge"/>
-  </a>
+    <a href="https://www.credly.com/badges/b94b9b25-563d-4ab1-be18-c817414dee42/public_url">
+  <img
+    src="https://images.credly.com/size/680x680/images/a7bea4b9-3704-4905-8681-aeaf64efd2f1/blob"
+    width="160"
+    alt="Unity Junior Programmer Badge"
+  />
+</a>
 </p>
 
 <p>
