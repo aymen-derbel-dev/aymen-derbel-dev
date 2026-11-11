@@ -23,7 +23,7 @@
 <h2>🌐 Socials</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aymen-derbel-604113267/">
+  <a href="https://www.linkedin.com/in/aymen-derbel">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/aymen-derbel-dev">
