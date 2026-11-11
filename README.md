@@ -1,7 +1,7 @@
 
 <!-- ================= ABOUT ME ================= -->
 
-<h2>👋 About Me</h2>
+<h2>💫 About Me</h2>
 
 <p>
   I'm <b>Aymen Derbel</b>, an IT student at <b>ISET Sousse</b>, specializing in
@@ -13,7 +13,7 @@
   how AI can make digital products smarter and more useful.
   <br/><br/>
   I believe in learning by building, exploring new technologies, and turning
-  creative ideas into practical solutions. 🚀
+  creative ideas into practical solutions. 
 </p>
 
 ---
@@ -168,7 +168,7 @@
   <br/>
   Specialization: Multimedia & Web Development
   <br/>
-  Expected Graduation: 2027
+  Graduation: 2027
 </p>
 
 ---
